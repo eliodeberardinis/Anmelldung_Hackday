@@ -14,8 +14,8 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
+  - Ground
+  - Climbing
   - 
   - 
   - 
@@ -43,6 +43,9 @@ TagManager:
     locked: 0
   - name: BackGround
     uniqueID: 3532293529
+    locked: 0
+  - name: Climbing
+    uniqueID: 3634557099
     locked: 0
   - name: Player
     uniqueID: 3840911887
